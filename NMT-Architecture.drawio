@@ -22,10 +22,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_oZZ-EDYuJYyAiTadYS-15" value="Mail (Sent to career manager and user)" style="rounded=1;whiteSpace=wrap;html=1;" parent="k_oZZ-EDYuJYyAiTadYS-3" vertex="1">
-          <mxGeometry x="210" y="59" width="100" height="60" as="geometry" />
+          <mxGeometry x="210" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k_oZZ-EDYuJYyAiTadYS-18" value="&lt;div&gt;Excel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="k_oZZ-EDYuJYyAiTadYS-3" vertex="1">
-          <mxGeometry x="387" y="59" width="120" height="60" as="geometry" />
+          <mxGeometry x="386" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k_oZZ-EDYuJYyAiTadYS-7" value="Marketing" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=#EBFEFF;" parent="1" vertex="1">
           <mxGeometry x="380" y="340" width="550" height="210" as="geometry" />
@@ -33,7 +33,7 @@
         <mxCell id="k_oZZ-EDYuJYyAiTadYS-8" value="IT" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;swimlaneFillColor=#FFFCEB;" parent="1" vertex="1">
           <mxGeometry x="150" y="30" width="390" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="opfaf5H5K_pcQQVYLbNe-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="k_oZZ-EDYuJYyAiTadYS-8" source="opfaf5H5K_pcQQVYLbNe-6" target="k_oZZ-EDYuJYyAiTadYS-11">
+        <mxCell id="opfaf5H5K_pcQQVYLbNe-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="k_oZZ-EDYuJYyAiTadYS-8" source="opfaf5H5K_pcQQVYLbNe-6" target="k_oZZ-EDYuJYyAiTadYS-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="80" as="sourcePoint" />
             <mxPoint x="300" y="90" as="targetPoint" />
@@ -42,7 +42,7 @@
         <mxCell id="k_oZZ-EDYuJYyAiTadYS-11" value="Web Page" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;direction=east;glass=0;shadow=1;" parent="k_oZZ-EDYuJYyAiTadYS-8" vertex="1">
           <mxGeometry x="200" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="opfaf5H5K_pcQQVYLbNe-6" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="k_oZZ-EDYuJYyAiTadYS-8">
+        <mxCell id="opfaf5H5K_pcQQVYLbNe-6" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="k_oZZ-EDYuJYyAiTadYS-8" vertex="1">
           <mxGeometry x="50" y="55" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k_oZZ-EDYuJYyAiTadYS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k_oZZ-EDYuJYyAiTadYS-11" target="k_oZZ-EDYuJYyAiTadYS-12" edge="1">

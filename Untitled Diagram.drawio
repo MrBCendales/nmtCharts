@@ -34,7 +34,7 @@
           <mxGeometry x="570" y="246" width="100" height="190" as="geometry" />
         </mxCell>
         <mxCell id="zDYp8u0hT7wXA561u6ja-24" value="Missing" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeWidth=2;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="723" y="242" width="340" height="176" as="geometry">
+          <mxGeometry x="723" y="242" width="340" height="190" as="geometry">
             <mxRectangle x="210" y="250" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -51,7 +51,7 @@
           <mxGeometry y="112" width="340" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zDYp8u0hT7wXA561u6ja-29" value="Purchase from app courses to redirect to the Purchase in webpage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="zDYp8u0hT7wXA561u6ja-24">
-          <mxGeometry y="150" width="340" height="26" as="geometry" />
+          <mxGeometry y="150" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

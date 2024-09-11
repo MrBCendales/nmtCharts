@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="374e34682ed331ee-1" value="PMU&lt;div&gt;GLOBAL CHAINS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="374e34682ed331ee-1" value="PMU&lt;div&gt;GLOBAL CHAINS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;gradientColor=#FFFFFF;gradientDirection=north;strokeColor=none;fillColor=#D6B945;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="400" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-4" value="BMC CLINIC" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-4" value="PGC Products" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#D79B00;" parent="1" vertex="1">
           <mxGeometry x="160" y="560" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-5" value="PGC SCHOOLS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#CDA2BE;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-5" value="PGC Schools" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#82B366;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-6" value="PGC CLINIC" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-6" value="BMC Clinic" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="720" y="80" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-7" value="Stage 4" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-7" value="PGC&lt;div&gt;Innovation&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#9673A6;" parent="1" vertex="1">
           <mxGeometry x="720" y="560" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rBrr_pJNn9ZHhG9hdsnL-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#140700;" vertex="1" parent="1">

@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13" pages="3">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
-    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kWXPCErycLtBcmLUMPPg-10" value="RDS - Database for Wordpress" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="450" width="80" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-12" target="kWXPCErycLtBcmLUMPPg-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -20,14 +17,16 @@
           <mxGeometry x="830" y="281" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-16" value="CloudFront (CDN&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
-          <mxGeometry x="830" y="88.25" width="78" height="78" as="geometry" />
+          <mxGeometry x="830" y="92.25" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="kWXPCErycLtBcmLUMPPg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-14" target="kWXPCErycLtBcmLUMPPg-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kWXPCErycLtBcmLUMPPg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-14" target="gaxUvXlOxAwdDjqfV61x-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="452" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-27" value="Database Connection via VPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kWXPCErycLtBcmLUMPPg-23">
           <mxGeometry x="0.012" y="-1" relative="1" as="geometry">
-            <mxPoint x="77" y="-15" as="offset" />
+            <mxPoint x="3" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-14" target="kWXPCErycLtBcmLUMPPg-15">
@@ -43,20 +42,31 @@
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-30" value="Media Files Distributed via CDN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kWXPCErycLtBcmLUMPPg-29">
           <mxGeometry x="-0.122" y="-3" relative="1" as="geometry">
-            <mxPoint x="78" as="offset" />
+            <mxPoint x="-92" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-34" target="kWXPCErycLtBcmLUMPPg-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-34" value="User" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
-          <mxGeometry x="270" y="295" width="18.5" height="50" as="geometry" />
+          <mxGeometry x="360" y="295" width="18.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gaxUvXlOxAwdDjqfV61x-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aurora;" vertex="1" parent="1">
+          <mxGeometry x="670" y="450" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ke32EysRoGo06WXr79U1" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="ke32EysRoGo06WXr79U1" name="Database">
+    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zULKi0pdd0aYSo44F3tL" name="Lightsail">
+    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

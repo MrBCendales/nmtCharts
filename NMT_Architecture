@@ -5,15 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kWXPCErycLtBcmLUMPPg-10" value="RDS - Database for Wordpress" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="511" y="440" width="80" height="100" as="geometry" />
+          <mxGeometry x="670" y="450" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kWXPCErycLtBcmLUMPPg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-12" target="kWXPCErycLtBcmLUMPPg-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-12" value="Shopify / Hor Pao" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.payment;" vertex="1" parent="1">
-          <mxGeometry x="220" y="92.25" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kWXPCErycLtBcmLUMPPg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-14" target="kWXPCErycLtBcmLUMPPg-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="551" y="160" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="491" y="96.25" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-14" value="Lightsail - wordpress" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lightsail;" vertex="1" parent="1">
           <mxGeometry x="512" y="281" width="78" height="78" as="geometry" />
@@ -24,15 +22,12 @@
         <mxCell id="kWXPCErycLtBcmLUMPPg-16" value="CloudFront (CDN&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
           <mxGeometry x="830" y="88.25" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="kWXPCErycLtBcmLUMPPg-19" value="Mail Service" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="511" y="96.5" width="81" height="61.5" as="geometry" />
-        </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-14" target="kWXPCErycLtBcmLUMPPg-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-27" value="Database Connection via VPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kWXPCErycLtBcmLUMPPg-23">
           <mxGeometry x="0.012" y="-1" relative="1" as="geometry">
-            <mxPoint x="80" as="offset" />
+            <mxPoint x="77" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-14" target="kWXPCErycLtBcmLUMPPg-15">
@@ -43,14 +38,6 @@
             <mxPoint x="39" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWXPCErycLtBcmLUMPPg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-12" target="kWXPCErycLtBcmLUMPPg-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kWXPCErycLtBcmLUMPPg-26" value="Embedded via API / Relation with Database" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kWXPCErycLtBcmLUMPPg-25">
-          <mxGeometry x="-0.2871" y="-1" relative="1" as="geometry">
-            <mxPoint x="-110" y="48" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kWXPCErycLtBcmLUMPPg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-15" target="kWXPCErycLtBcmLUMPPg-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -58,6 +45,12 @@
           <mxGeometry x="-0.122" y="-3" relative="1" as="geometry">
             <mxPoint x="78" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kWXPCErycLtBcmLUMPPg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWXPCErycLtBcmLUMPPg-34" target="kWXPCErycLtBcmLUMPPg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWXPCErycLtBcmLUMPPg-34" value="User" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="295" width="18.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

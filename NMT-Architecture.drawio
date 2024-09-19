@@ -407,7 +407,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UqvUHwq4-wzALKY2m1lW" name="Page-4">
-    <mxGraphModel dx="3457" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3056" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,19 +470,19 @@
             <mxGeometry x="-55" y="1630" width="200" height="75" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="yt2yVOKv417MGftwdPmN-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=72;fillColor=#C2986B;gradientColor=none;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="yt2yVOKv417MGftwdPmN-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=72;fillColor=#F5F5DC;gradientColor=none;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="125" y="1220" width="600" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="yt2yVOKv417MGftwdPmN-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=288;fillColor=#FF9933;gradientColor=none;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="yt2yVOKv417MGftwdPmN-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=288;fillColor=#B8860B;gradientColor=none;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="125" y="1220" width="600" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="yt2yVOKv417MGftwdPmN-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=216;fillColor=#66B2FF;gradientColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yt2yVOKv417MGftwdPmN-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=216;fillColor=#0070E0;gradientColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="125" y="1220" width="600" height="600" as="geometry" />
         </mxCell>
         <mxCell id="yt2yVOKv417MGftwdPmN-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=0;fillColor=#ffcd28;gradientColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="125" y="1220" width="600" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="yt2yVOKv417MGftwdPmN-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=144;fillColor=#d5e8d4;gradientColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="yt2yVOKv417MGftwdPmN-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.80;endAngle=1;rotation=144;fillColor=#D3D3D3;gradientColor=none;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="125" y="1220" width="600" height="600" as="geometry" />
         </mxCell>
         <mxCell id="E_hrHf7GtC_EJiVruXUM-6" value="Database&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Products&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Schools&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Clinics&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;...&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" vertex="1" parent="1">
@@ -503,7 +503,7 @@
         <mxCell id="yt2yVOKv417MGftwdPmN-23" value="Product Staff" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" vertex="1" parent="1">
           <mxGeometry x="605" y="1570" width="59" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="yt2yVOKv417MGftwdPmN-24" value="Instructors" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.mail_user;" vertex="1" parent="1">
+        <mxCell id="yt2yVOKv417MGftwdPmN-24" value="Instructors" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4E504F;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.mail_user;" vertex="1" parent="1">
           <mxGeometry x="406" y="1710" width="58" height="59" as="geometry" />
         </mxCell>
         <mxCell id="yt2yVOKv417MGftwdPmN-25" value="Clinic Staff" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.communications;" vertex="1" parent="1">
